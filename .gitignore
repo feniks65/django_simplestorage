@@ -1,0 +1,19 @@
+# .gitignore
+
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+venv/
+
+*.sqlite3
+db.sqlite3
+migrations/
+__pycache__/
+
+*.swp
+*.swo
+*.swn
+.env
+
